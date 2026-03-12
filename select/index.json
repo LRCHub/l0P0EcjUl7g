@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "なみしぐさ",
+  "base_artist": "野田洋次郎",
+  "createdAt": "2026-03-12T12:00:43.481092Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なみしぐさ",
+      "artist": "野田洋次郎",
+      "has_synced": false,
+      "path": "select/pl_01_なみしぐさ_野田洋次郎.txt"
+    }
+  ]
+}
